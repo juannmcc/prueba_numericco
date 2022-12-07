@@ -14,4 +14,6 @@ Se generaron dos tablas/entidades: Premios y Codigos.
 
 Una vez incluídos los datos, se puede proceder a exportar los datos, y esto lee los datos de la tabla Códigos, y la exportar en un nuevo Csv de datos.
 
+El código está incluído en la rama MASTER.
+
 
